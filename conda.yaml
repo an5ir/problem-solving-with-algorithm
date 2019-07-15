@@ -1,0 +1,5 @@
+name: problem-solving-with-algorithm
+channels:
+  - defaults
+dependencies:
+  - python=3.6.5

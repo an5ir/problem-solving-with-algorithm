@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    problem-solving-with-algorithm/__main__.py
+    problem-solving-with-algorithm/_version.py
+    versioneer.py
+    tests/*
